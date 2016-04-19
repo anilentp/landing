@@ -1,0 +1,47 @@
+*{
+	font-family: tahoma;
+}
+.title{
+	background-color: white;
+	max-width: 100%;
+}
+a:link{
+	text-decoration: none;
+	text-align: center;
+	color: #B0B2B5;
+}
+a:hover{
+	color: #3ABB5E;
+}
+li{
+	display: inline;
+	margin: 15%;
+}
+.texto{
+	display: inline-block;
+}
+.menu{
+	float: right;
+}
+.textbig{
+	font-size: 50px;
+	display: inline-block;
+}
+.suscripcion{
+	border-radius: 10px;
+	background-color: #BBB7B7;
+	float: right;
+	max-width: 100%;
+}
+input{
+	display: inline-block;
+	width: 100%;
+	padding:2%;
+	margin: 5% 0;
+}
+.suscribe{
+	display: block;
+	background-color: #22D9E9;
+	padding: 2%;
+	margin-bottom: 10%;
+}
