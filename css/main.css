@@ -1,9 +1,13 @@
 *{
 	font-family: tahoma;
 }
+img{
+	max-width: 100%;
+}
 .title{
 	background-color: white;
 	max-width: 100%;
+	display: inline-block;
 }
 a:link{
 	text-decoration: none;
@@ -14,24 +18,29 @@ a:hover{
 	color: #3ABB5E;
 }
 li{
-	display: inline;
-	margin: 15%;
+	display: inline-block;
+}
+ul{
+	display: inline-block;
+	margin-right: 15%;
+	max-width: 100%;
 }
 .texto{
 	display: inline-block;
 }
 .menu{
 	float: right;
+	max-width: 50%;
 }
 .textbig{
-	font-size: 50px;
+	font-size: 60px;
 	display: inline-block;
 }
 .suscripcion{
 	border-radius: 10px;
 	background-color: #BBB7B7;
 	float: right;
-	max-width: 100%;
+	margin-left: 5%;
 }
 input{
 	display: inline-block;

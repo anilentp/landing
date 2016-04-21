@@ -33,6 +33,9 @@
 .pb-5{
 	padding-bottom: 5%;
 }
+.pb-7{
+	padding-bottom: 7%;
+}
 .pb-10{
 	padding-bottom: 10%;
 }
@@ -41,6 +44,12 @@
 }
 .pd-5-10{
 	padding: 5% 10%;
+}
+.pl-5{
+	padding-left: 5%;
+}
+.pl-7{
+	margin-left: 7%;
 }
 .mg-0{
 	margin: 0;
@@ -73,13 +82,13 @@
 	color: rgb(83, 88, 95);
 }
 .text-green{
- color: #3ABB5E;
+	color: #3ABB5E;
 }
 .a-none-decoration{
 	text-decoration: none;
 }
 .bg-gray{
-	background-color: rgb(83, 88, 95);
+	background-color: #808080;
 }
 .text-gray{
 	color:#F2F2F2;
